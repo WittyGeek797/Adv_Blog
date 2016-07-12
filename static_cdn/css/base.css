@@ -1,0 +1,10 @@
+h1 {
+	color: #AB78A2;
+}
+.wmd-panel{
+	margin-left: 0px !important;
+	margin-right: 0px !important;
+}
+.comment-reply{
+	display: none;
+}
